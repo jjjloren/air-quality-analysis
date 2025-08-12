@@ -5,20 +5,20 @@ Exploratory data analysis of PM2.5 air pollution using the `city_day.csv` (Kaggl
 
 ---
 
-## 🔗 Dataset
+## Dataset
 Source: *Kaggle - Air Quality Data in India*  
 Link: https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india  
 *(I included a small sample `data/city_day_sample.csv`. The full dataset is available at the Kaggle link above.)*
 
 ---
 
-## 🛠 Tools
+## Tools
 - Python (pandas, matplotlib, seaborn)
 - Jupyter / Google Colab
 
 ---
 
-## 🚀 What I did
+## What I did
 1. Cleaned and standardized column names.  
 2. Parsed `Date` to datetime and extracted month.  
 3. Calculated average PM2.5 per `city` × `month`.  
